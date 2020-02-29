@@ -1,2 +1,2 @@
-# jekyl_blog
-Blog using jekyl
+# jekyll_blog
+Blog using jekyll
